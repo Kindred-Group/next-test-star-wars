@@ -19,7 +19,12 @@ The application leverages API to fetch information about Star Wars charracters. 
 ## Tasks
 
 - Make boxes with round corners
+
+![](./public/app-task-1.png)
+
 - Change font color and border colors from yellow to white
 - Add hair color and skin color information for each character
 - Show name of characters' starship
+
+![](./public/app-task-3.png)
 
