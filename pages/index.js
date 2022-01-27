@@ -21,6 +21,7 @@ export default function Home({characters}) {
 
         <div className={styles.content}>
           {characters.map(character => <Character character={character} />)}
+  
         </div>
       </main>
 
@@ -49,3 +50,4 @@ export async function getStaticProps(context) {
     },
   }
 }
+

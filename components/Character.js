@@ -8,6 +8,9 @@ export default function Character({character}) {
         <ul>
             <li>Height: {character.height}</li>
             <li>Gender: {character.gender}</li>
+            <li>Hair Color: {character.hair_color}</li>
+            <li>Skin Color: {character.name}</li>
+            
         </ul>
     </div>
   )
